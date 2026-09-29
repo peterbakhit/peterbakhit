@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently using **Spring framework**
 
-- 💬 Ask me about **Spring boot,Django, javascript, C++. Python, React, Vue.js**
+- 💬 Ask me about **Spring Boot, Django, Java, Java EE, JavaScript, C, C++, Python**
 
 - 📫 How to reach me **peterhalim50@gmail.com**
 
